@@ -29,7 +29,7 @@
     <div class="control-group">
       <!-- Button -->
       <div class="controls">
-        <button type="submit" id="login" class="btn btn-primary">Register</button>
+        <button type="submit" id="login" class="btn btn-primary">Login</button>
       </div>
     </div>
   </fieldset>

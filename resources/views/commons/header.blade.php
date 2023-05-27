@@ -21,10 +21,10 @@
     
 <!-- navbar code starts -->
 
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse" id="navbar">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Random-Password-Generator</a>
+      <a class="navbar-brand" id="nav_brand" href="#">Random-Password-Generator</a>
     </div>
     <ul class="nav navbar-nav">
       <li><a href="{{route('/')}}">Home</a></li>
